@@ -6,8 +6,6 @@
 
 - [C++ Data Types](https://www.programiz.com/cpp-programming/data-types)
 
-- [More About Data Types](https://www.geeksforgeeks.org/c-sharp-data-types/)
-
 - [ASCII Table](https://ascii.cl/)
 
 - [Number Conversion](https://www.rapidtables.com/convert/number/binary-to-decimal.html)
