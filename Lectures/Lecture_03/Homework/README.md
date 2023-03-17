@@ -8,7 +8,7 @@
 
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/70385488/225876402-9e792b0b-0817-4f90-ba2c-89e46a202ec1.png">
 
-**Output :** NINEY POSITIVE
+**Output :** NINEYPOSITIVE
 
 **Q.3** Guess the output?
 
@@ -20,7 +20,7 @@
 
 <img width="638" alt="image" src="https://user-images.githubusercontent.com/70385488/225876586-5efc62c4-c3b8-4de0-a607-344ef2527d64.png">
 
-**Output :** Love 24
+**Output :** Love24
 
 **Q.5** Write a program to satisfy below conditions :
 
