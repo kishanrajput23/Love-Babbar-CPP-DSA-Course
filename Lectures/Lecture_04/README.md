@@ -1,5 +1,7 @@
 # Write a program to print following patterns : 
 
+## Check out answers from [Here](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_04/Lecture_Codes_and_Homework) 👈
+
 ### Q1 :
 <img width="169" alt="01" src="https://user-images.githubusercontent.com/70385488/226531256-0391fdc8-2f5d-4d1a-b389-2fe54536d38b.png">
 
