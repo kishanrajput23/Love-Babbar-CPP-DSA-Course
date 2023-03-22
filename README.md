@@ -1,8 +1,8 @@
 # Love Babbar CPP DSA Course
 
-#### Check out course flow from [Here](https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD) 👈
+#### Checkout Course Flow From [Here](https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD) 👈
 
-#### For LeetCode Solutions [Click Here](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/LeetCode_Solutions) 👈
+#### Checkout LeetCode Solutions From [Here](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/LeetCode_Solutions) 👈
 
 |  Lectures  |  Lectures Codes  |  Homework  |  Hands On PDF  |  Handwritten Notes  |  Extra Resources  |
 |:-----------|:----------------:|:----------:|:--------------:|:-------------------:|:-----------------:|
