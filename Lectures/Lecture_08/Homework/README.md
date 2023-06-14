@@ -17,3 +17,32 @@ Since the `switch` statement is not a loop, there are no subsequent iterations t
 
 **Q.3 :** Write a program using switch case statement in c++ for calculating the total number of notes required of Rs 100, Rs 50, Rs 20 and Rs 1 for a total number of amount?
 
+**Q.4 :** Write a function to print the nth term value of an AP series `3N+7`.
+
+**Q.5 :** Write a function to find the total number of set bit in two numbers a and b.
+```
+if a = 2 --> Binary Representation of 2 = 10
+if b = 3 --> Binary Representation of 3 = 11
+then answer = 3 --> The total number of set bit of 1 is 3.
+```
+
+**Q.6 :** Write a function to print nth fibonacci number.
+
+**Q.7 :** Guess the output?
+
+<img width="470" alt="image" src="https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/assets/70385488/dba9cb9c-8f63-49c5-9947-6ec059f28dd9">
+
+**Output :** 10
+
+**Q.8 :** Guess the output?
+
+<img width="481" alt="image" src="https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/assets/70385488/3ec789ca-750a-424f-8d38-3e1b51dc41b3">
+
+**Output :** 15
+
+**Q.9 :** Guess the output?
+
+<img width="450" alt="image" src="https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/assets/70385488/72f7e53b-7ed1-4078-966c-b9b7619fba5b">
+
+**Output :** 196
+
