@@ -3,6 +3,7 @@
 |  Problem  |  Solutions  |  Level  |
 |:----------|:-----------:|:-------:|
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_07/Lecture_Codes/07.cpp)  |  Medium  |
+|  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_14/Lecture_Codes/69.cpp)  |  Easy  |
 |  [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_05/Lecture_Codes/191.cpp)  |  Easy  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_07/Lecture_Codes/231.cpp)  |  Easy  |
 |  [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_10/Homework/442.cpp)  |  Medium  |
