@@ -2,6 +2,8 @@
 
 **Q.1** Draw a flowchart of selection sort algorithm.
 
+![selection-sort](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/assets/70385488/c697dd3b-142f-4397-bb2c-a3e3ead6c3ce)
+
 
 **Q.2** What is stable and unstable algorithm?
 
