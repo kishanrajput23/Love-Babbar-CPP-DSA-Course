@@ -1,4 +1,4 @@
-# Lectures Codes
+# Lecture Codes
 
 |  Problem  |  Solutions  |  Level  |
 |:----------|:-----------:|:-------:|
