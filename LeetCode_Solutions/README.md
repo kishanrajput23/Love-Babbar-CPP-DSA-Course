@@ -5,6 +5,7 @@
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_07/Lecture_Codes/07.cpp)  |  Medium  |
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_14/Lecture_Codes/69.cpp)  |  Easy  |
 |  [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_20/Homework/88.cpp)  |  Easy  |
+|  [189. Rotate Array](https://leetcode.com/problems/rotate-array/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_21/Lecture_Codes/189.cpp)  |  Medium  |
 |  [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_05/Lecture_Codes/191.cpp)  |  Easy  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_07/Lecture_Codes/231.cpp)  |  Easy  |
 |  [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_20/Lecture_Codes/283.cpp)  |  Easy  |
@@ -14,3 +15,4 @@
 |  [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_07/Lecture_Codes/1009.cpp)  |  Easy  |
 |  [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_10/Homework/1207.cpp)  |  Easy  |
 |  [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_05/Lecture_Codes/1281.cpp)  |  Easy  |
+|  [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)  | [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_21/Lecture_Codes/1752.cpp)  |  Easy  |
