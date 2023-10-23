@@ -1,4 +1,4 @@
-# Leetcode Problems
+# LeetCode Solutions
 
 |  Problem  |  Solutions  |  Level  |
 |:----------|:-----------:|:-------:|
