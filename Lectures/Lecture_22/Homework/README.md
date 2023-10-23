@@ -2,9 +2,9 @@
 
 |  Problems  |  Solutions  |  Level  |
 |:-----------|:-----------:|:-------:|
-|  [Check If The String Is A Palindrome](https://www.codingninjas.com/studio/problems/check-if-the-string-is-a-palindrome_1062633)  |  [Solution]()  |  Easy  |
-|  [186. Reverse Words In a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)  |  [Solution]()  |  Medium  |
-|  [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  |  [Solution]()  |  Easy  |
+|  [Check If The String Is A Palindrome](https://www.codingninjas.com/studio/problems/check-if-the-string-is-a-palindrome_1062633)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_22/Homework/check_if_the_string_is_a_palindrome.cpp)  |  Easy  |
+|  [186. Reverse Words In a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_22/Homework/186.cpp)  |  Medium  |
+|  [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_22/Homework/1047.cpp)  |  Easy  |
 
 ## Key Difference Between Chracter Array & String
 
