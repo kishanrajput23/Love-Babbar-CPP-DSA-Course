@@ -1,4 +1,4 @@
-# CodeStudio Problems
+# CodingNinjas Solutions
 
 |  Problem  |  Solutions  |  Level  |
 |:----------|:-----------:|:-------:|
