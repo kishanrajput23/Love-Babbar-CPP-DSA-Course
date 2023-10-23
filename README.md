@@ -2,9 +2,11 @@
 
 #### Checkout Course Flow From [Here](https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD) 👈
 
+#### Checkout GFG Solutions From [Here](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/GFG_Solutions) 👈
+
 #### Checkout LeetCode Solutions From [Here](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/LeetCode_Solutions) 👈
 
-#### Checkout CodeStudio Solutions From [Here](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/CodeStudio_Problems) 👈
+#### Checkout CodingNinjas Solutions From [Here](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/CodingNinjas_Solutions) 👈
 
 |  Lectures  |  Lectures Codes  |  Homework  |  Hands On PDF  |  Handwritten Notes  |
 |:-----------|:----------------:|:----------:|:--------------:|:-------------------:|
@@ -28,3 +30,5 @@
 |  [Lecture 18: Insertion Sort](https://www.youtube.com/watch?v=7kIVfVY6Axk&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=19&pp=iAQB)  |  [L18 Code](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_18/Lecture_Codes)  |  -  |  [PDF](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_18/Lecture_18_Hands_On.pdf)  |  -  |
 |  [Lecture 19: C++ STL](https://www.youtube.com/watch?v=WgMPrLX-zsA&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=20&pp=iAQB)  |  [L19 Code](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_19/Lecture_Codes)  |  -  |  -  |  -  |
 |  [Lecture 20: Solving LeetCode/CodeStudio Questions (Arrays)](https://www.youtube.com/watch?v=MPvr-LmaZmA&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=21&pp=iAQB)  |  [L20 Code](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_20/Lecture_Codes)  |  [H20](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_20/Homework)  |  [PDF](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_20/Lecture_20_Hands_On.pdf)  |  -  |
+|  [Lecture 21: Solving LeetCode/CodeStudio Questions (Arrays)](https://www.youtube.com/watch?v=Z7_nMTHROZo&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=22&pp=iAQB)  |  [L21 Code](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_21)  |  -  |  [PDF](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_21/Lecture_21_Hands_On.pdf)  |  -  |
+|  [Lecture22: All about Char Arrays, Strings](https://www.youtube.com/watch?v=Wdjr6uoZ0e0&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=24&pp=iAQB)  |  [L22 Code](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_22/Lecture_Codes)  |  [H22](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_22/Homework)  |  [PDF](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_22/Lecture_22_Hands_On.pdf)  |  -  |
