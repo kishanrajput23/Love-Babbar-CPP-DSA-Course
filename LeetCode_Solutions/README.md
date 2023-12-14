@@ -3,10 +3,12 @@
 |  Problem  |  Solutions  |  Level  |
 |:----------|:-----------:|:-------:|
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_07/Lecture_Codes/07.cpp)  |  Medium  |
+|  [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_38/Lecture_Codes/17.cpp)  |  Medium  |
 |  [48. Rotate Image](https://leetcode.com/problems/rotate-image/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_23/Homework/48.cpp)  |  Medium  |
 |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_23/Lecture_Codes/54.cpp)  |  Medium  |
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_14/Lecture_Codes/69.cpp)  |  Easy  |
 |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_23/Lecture_Codes/74.cpp)  |  Medium  |
+|  [78. Subsets](https://leetcode.com/problems/subsets/description/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_37/Lecture_Codes/78.cpp)  |  Medium  |
 |  [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_20/Homework/88.cpp)  |  Easy  |
 |  [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_22/Lecture_Codes/125.cpp)  |  Easy  |
 |  [186. Reverse Words In a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_22/Homework/186.cpp)  |  Medium  |
