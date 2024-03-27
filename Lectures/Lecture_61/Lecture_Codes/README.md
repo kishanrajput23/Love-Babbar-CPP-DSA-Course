@@ -2,11 +2,11 @@
 
 |  Problem  |  Solution  |  Level  |
 |:----------|:----------:|:-------:|
-|  [Queue Reversal](https://www.geeksforgeeks.org/problems/queue-reversal/1)  |  [Solution]()  |  Easy  |
-|  [First negative integer in every window of size k](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)  |  [Solution]()  |  Medium  |
-|  [Reverse First K elements of Queue]()  |  [Solution]()  |  Easy  |
-|  [First non-repeating character in a stream](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)  |  [Solution]()  |  Medium  |
-|  [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1)  |  [Solution]()  |  Medium  |
-|  [Circular Tour](https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1)  |  [Solution]()  |  Medium  |
-|  [How to efficiently implement k Queues in a single array?](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/)  |  [Solution]()  |  Medium  |
-|  [Sum of minimum and maximum elements of all subarrays of size k](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/)  |  [Solution]()  |  Hard  |
+|  [Queue Reversal](https://www.geeksforgeeks.org/problems/queue-reversal/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_61/Lecture_Codes/queue_reversal.cpp)  |  Easy  |
+|  [First negative integer in every window of size k](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_61/Lecture_Codes/first_negative_integer_in_every_window_of_size_k.cpp)  |  Medium  |
+|  [Reverse First K elements of Queue](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_61/Lecture_Codes/reverse_first_k_elements_of_queue.cpp)  |  Easy  |
+|  [First non-repeating character in a stream](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_61/Lecture_Codes/first_non_repeating_character_in_a_stream.cpp)  |  Medium  |
+|  [Interleave the First Half of the Queue with Second Half](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_61/Lecture_Codes/interleave_the_first_half_of_the_queue_with_second_half.cpp)  |  Medium  |
+|  [Circular Tour](https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_61/Lecture_Codes/circular_tour.cpp)  |  Medium  |
+|  [How to efficiently implement k Queues in a single array?](https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_61/Lecture_Codes/kqueue.cpp)  |  Medium  |
+|  [Sum of minimum and maximum elements of all subarrays of size k](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_61/Lecture_Codes/sum_of_max_min.cpp)  |  Hard  |
