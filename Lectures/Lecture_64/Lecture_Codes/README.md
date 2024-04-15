@@ -1,11 +1,11 @@
 # Lecture Codes
 |  **Problems**  |  **Solutions**  |  **Level**  |
 |:--------------|:----------------:|:-----------:|
-|  [ZigZag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1)  |  [Solution]()  |  Medium  |
-|  [Boundary Traversal of binary tree](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)  |  [Solution]()  |  Medium  |
-|  [Vertical Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1)  |  [Solution]()  |  Medium  |
-|  [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)  |  [Solution]()  |  Medium  |
-|  [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)  |  [Solution]()  |  Medium  |
-|  [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)  |  [Solution]()  |  Easy  |
-|  [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)  |  [Solution]()  |  Easy  |
-|  [Diagonal Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)  |  [Solution]()  |  Medium  |
+|  [ZigZag Tree Traversal](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_64/Lecture_Codes/zig_zag_tree_traversal.cpp)  |  Medium  |
+|  [Boundary Traversal of binary tree](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_64/Lecture_Codes/boundary_traversal_of_binary_tree.cpp)  |  Medium  |
+|  [Vertical Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_64/Lecture_Codes/vertical_traversal_of_binary_tree.cpp)  |  Medium  |
+|  [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_64/Lecture_Codes/top_view_of_binary_tree.cpp)  |  Medium  |
+|  [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_64/Lecture_Codes/bottom_view_of_binary_tree.cpp)  |  Medium  |
+|  [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_64/Lecture_Codes/left_view_of_binary_tree.cpp)  |  Easy  |
+|  [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_64/Lecture_Codes/right_view_of_binary_tree.cpp)  |  Easy  |
+|  [Diagonal Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_64/Lecture_Codes/diagonal_traversal_of_binary_tree.cpp)  |  Medium  |
