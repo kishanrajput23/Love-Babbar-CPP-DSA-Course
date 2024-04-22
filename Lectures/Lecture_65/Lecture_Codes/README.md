@@ -2,8 +2,8 @@
 
 |  Problem  |  Solution  |  Level  |
 |:----------|:----------:|:-------:|
-|  [Sum of nodes on the longest path from root to leaf node](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1)  |  [Solution]()  |  Medium  |
-|  [Lowest Common Ancestor in a Binary Tree](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)  |  [Solution]()  |  Medium  |
-|  [K Sum Paths](https://www.geeksforgeeks.org/problems/k-sum-paths/1)  |  [Solution1](), [Solution2]()  |  Medium  |
-|  [Kth Ancestor in a Tree](https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1)  |  [Solution](), [Solution2]()  |  Medium  |
-|  [Maximum sum of Non-adjacent nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)  |  [Solution]()  |  Medium  |
+|  [Sum of nodes on the longest path from root to leaf node](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_65/Lecture_Codes/sum_of_nodes_on_the_longest_path_from_root_to_leaf_node.cpp)  |  Medium  |
+|  [Lowest Common Ancestor in a Binary Tree](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_65/Lecture_Codes/lowest_common_ancestor_in_a_binary_tree.cpp)  |  Medium  |
+|  [K Sum Paths](https://www.geeksforgeeks.org/problems/k-sum-paths/1)  |  [Solution1](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_65/Lecture_Codes/k_sum_paths_approach_1.cpp), [Solution2](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_65/Lecture_Codes/k_sum_paths_approach_2.cpp)  |  Medium  |
+|  [Kth Ancestor in a Tree](https://www.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_65/Lecture_Codes/kth_ancestor_in_a_tree_approach_1.cpp), [Solution2](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_65/Lecture_Codes/kth_ancestor_in_a_tree_approach_2.cpp)  |  Medium  |
+|  [Maximum sum of Non-adjacent nodes](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_65/Lecture_Codes/maximum_sum_of_non_adjacent_nodes.cpp)  |  Medium  |
