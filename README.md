@@ -1,5 +1,7 @@
 # Love Babbar CPP DSA Course
 
+<img src="https://i.ytimg.com/vi/9kQ1JUDleWg/maxresdefault.jpg" alt="">
+
 #### Checkout Course Flow From [Here](https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD) 👈
 
 #### Checkout GFG Solutions From [Here](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/GFG_Solutions) 👈
