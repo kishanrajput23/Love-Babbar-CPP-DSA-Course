@@ -2,7 +2,7 @@
 
 |  Problem  |  Solution  |  Level  |
 |:----------|:----------:|:-------:|
-|  [Partial BST](https://www.naukri.com/code360/problems/validate-bst_799483)  |  [Solution1](), [Solution2]()  |  Moderate  |
-|  [Find K-th smallest Element in BST](https://www.naukri.com/code360/problems/find-k-th-smallest-element-in-bst_1069333)  |  [Solution1](), [Solution2](), [Solution3]()  |  Easy  |
-|  [Predecessor And Successor In BST](https://www.naukri.com/code360/problems/_893049)  |  [Solution]()  |  Easy  |
-|  [LCA of Two Nodes In A BST](https://www.naukri.com/code360/problems/lca-in-a-bst_981280)  |  [Solution1](), [Solution2]()  |  Moderate  |
+|  [Partial BST](https://www.naukri.com/code360/problems/validate-bst_799483)  |  [Solution1](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_70/Lecture_Codes/partial_bst_approach_1.cpp), [Solution2](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_70/Lecture_Codes/partial_bst_approach_2.cpp)  |  Moderate  |
+|  [Find K-th smallest Element in BST](https://www.naukri.com/code360/problems/find-k-th-smallest-element-in-bst_1069333)  |  [Solution1](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_70/Lecture_Codes/find_kth_smallest_element_in_bst_approach_1.cpp), [Solution2](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_70/Lecture_Codes/find_kth_smallest_element_in_bst_approach_2.cpp), [Solution3](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_70/Lecture_Codes/find_kth_smallest_element_in_bst_approach_3.cpp)  |  Easy  |
+|  [Predecessor And Successor In BST](https://www.naukri.com/code360/problems/_893049)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_70/Lecture_Codes/predecessor_and_successor_in_bst.cpp)  |  Easy  |
+|  [LCA of Two Nodes In A BST](https://www.naukri.com/code360/problems/lca-in-a-bst_981280)  |  [Solution1](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_70/Lecture_Codes/lca_of_two_nodes_in_a_bst_approach_1.cpp), [Solution2](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_70/Lecture_Codes/lca_of_two_nodes_in_a_bst_approach_2.cpp)  |  Moderate  |
