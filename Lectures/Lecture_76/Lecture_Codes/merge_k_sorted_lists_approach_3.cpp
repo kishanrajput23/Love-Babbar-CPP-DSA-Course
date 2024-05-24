@@ -1,27 +1,41 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-
 // TC = O(NKlog(K))
 // SC = O(1);
 
-class Solution {
+#include<bits/stdc++.h>
+
+/*
+Following is the class structure of the Node class:
+
+class Node
+{
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode *dummy, *temp;
-        dummy = new ListNode();
+    int data;
+    Node *next;
+    Node()
+    {
+        this->data = 0;
+        next = NULL;
+    }
+    Node(int data)
+    {
+        this->data = data; 
+        this->next = NULL;
+    }
+    Node(int data, Node* next)
+    {
+        this->data = data;
+        this->next = next;
+    }
+};
+*/
+Node* mergeTwoLists(Node* list1, Node* list2) {
+        Node *dummy, *temp;
+        dummy = new Node();
         temp = dummy;
         
         //when both list1 and list2 isn't empty
         while (list1 != NULL && list2 != NULL){
-            if (list1->val < list2->val) {
+            if (list1->data < list2->data) {
                 temp->next = list1;
                 list1 = list1->next;
             }
@@ -44,7 +58,7 @@ public:
         return dummy->next;
     }
 
-    void mergeSort(vector<ListNode*>& lists, int start, int end) {
+    void mergeSort(vector<Node*>& listArray, int start, int end) {
         if (start >= end) {
             return ;
         }
@@ -52,22 +66,21 @@ public:
         int mid = start + (end - start) / 2;
 
         // left part
-        mergeSort(lists, start, mid);
+        mergeSort(listArray, start, mid);
 
         // right part
-        mergeSort(lists, mid+1, end);
+        mergeSort(listArray, mid+1, end);
 
         // merging
-        lists[start] = mergeTwoLists(lists[start], lists[mid+1]);
+        listArray[start] = mergeTwoLists(listArray[start], listArray[mid+1]);
     }
 
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.size() == 0) {
+Node* mergeKLists(vector<Node*> &listArray) {
+    if (listArray.size() == 0) {
             return NULL;
         }
 
-        mergeSort(lists, 0, lists.size()-1);
+        mergeSort(listArray, 0, listArray.size()-1);
 
-        return lists[0];
-    }
-};
+        return listArray[0];
+}
