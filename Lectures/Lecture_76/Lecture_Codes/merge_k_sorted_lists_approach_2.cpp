@@ -60,7 +60,7 @@ Node* mergeKLists(vector<Node*> &listArray) {
             return NULL;
         }
 
-    ListNode* head = listArray[0];
+    Node* head = listArray[0];
 
     for (int i=1; i<listArray.size(); i++) {
         head = mergeTwoLists(head, listArray[i]);
