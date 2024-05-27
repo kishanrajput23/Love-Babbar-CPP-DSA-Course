@@ -2,7 +2,7 @@
 
 |  Problem  |  Solution  |  Level  |
 |:----------|:----------:|:-------:|
-|  [Maximum Frequency Number](https://www.naukri.com/code360/problems/maximum-frequency-number_920319)  |  [Solution]()  |  Easy  |
+|  [Maximum Frequency Number](https://www.naukri.com/code360/problems/maximum-frequency-number_920319)  |  [Solution](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_78/Lecture_Codes/maximum_frequency_number.cpp)  |  Easy  |
 
 
 ## Topics
