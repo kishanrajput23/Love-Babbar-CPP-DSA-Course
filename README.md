@@ -16,7 +16,7 @@
 - [Data Structure & Algorithm](https://www.codingninjas.com/studio/guided-paths/data-structures-algorithms-new)
 - [Competitive Programming](https://www.codingninjas.com/studio/guided-paths/competitive-programming)
 
-|  Lectures  |  Lectures Codes  |  Homework  |  Hands On PDF  |  Handwritten Notes  |
+|  Lectures  |  Lecture Codes  |  Homework  |  Hands On PDF  |  Handwritten Notes  |
 |:-----------|:----------------:|:----------:|:--------------:|:-------------------:|
 |  [Lecture 1: Intro to Programming & Flowcharts](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1)  |  [L1 Code](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_01/Codes)  |  [H1](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_01/Homework)  |  [PDF](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_01/Lecture_1_Hands_On.pdf)  |  [PDF](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_01/Lecture_1_Handwritten_Notes.pdf)  |
 |  [Lecture 2: Write Your First Program in C++](https://www.youtube.com/watch?v=t6zLJOCVqD0&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=2)  |  [L2 Code](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_02/Codes)  |  [H2](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/tree/main/Lectures/Lecture_02/Homework)  |  [PDF](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_02/Lecture_2_Hands_On.pdf)  |  [PDF](https://github.com/kishanrajput23/Love-Babbar-CPP-DSA-Course/blob/main/Lectures/Lecture_02/Lecture_2_Handwritten_Notes.pdf)  |
