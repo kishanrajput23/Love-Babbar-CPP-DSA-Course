@@ -1,8 +1,3 @@
-#include <vector>
-#include <unordered_map>
-#include <algorithm>
-using namespace std;
-
 // Simple O(n²) time, O(n) space - Corrected Implementation
 class Solution {
   public:
@@ -56,40 +51,3 @@ class Solution {
         return ans;
     }
 };
-
-/*
-EXPLANATION OF TWO-POINTER APPROACH:
-
-Time Complexity: O(n²)
-- Outer loop: O(n) for each middle element
-- Two-pointer search: O(n) total for each middle element
-- Extension: O(n) in worst case when found
-- Rolling DP: O(n²) for comprehensive coverage
-- Total: O(n²) - maintains optimal time!
-
-Space Complexity: O(n)
-- Two-pointer part: O(1)
-- Rolling DP: Uses only one hash map at a time with O(n) entries
-- Total: O(n) - significant space improvement!
-
-How it works:
-1. Two-Pointer Phase:
-   - For each element as middle, find APs using two pointers
-   - When arr[left] + arr[right] = 2 * arr[middle], we found an AP
-   - Extend bidirectionally to get full length
-
-2. Rolling DP Phase:
-   - Catches any APs missed by two-pointer approach
-   - Uses rolling technique - only keep current DP state, not all previous
-   - Space: O(n) instead of O(n²)
-
-Key Advantage:
-- Maintains O(n²) time complexity (same as original optimal solution)
-- Reduces space from O(n²) to O(n)
-- Best balance between time and space efficiency!
-
-Test with [1, 7, 10, 13, 14, 19]:
-- Two-pointer finds: [7, 10, 13] and [1, 7, 13, 19]
-- DP ensures no AP is missed
-- Correctly returns 4 for [1, 7, 13, 19]
-*/
